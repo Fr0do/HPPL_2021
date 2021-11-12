@@ -19,7 +19,7 @@ does not diverge to infinity.
 |1| Black and white colors of pixels are correct | 1 |
 |2| Different colors for bifurcation points (you can also create your own coloring logic or look for proposals on the internet) | 1 |
 |3| Generate figure of Julia set (c = 1-r) where r is the golden ratio. Label the axes (Re(z0), Im(z0)), fontsize should be 20, figsize = (14,11) | 2 |
-|4| Plot figures for c=exp(ia), a = range(0,2pi) & write down axes like in subtask 3, create animation of these figures slowly changing the a | 2 |
+|4| Plot figures for c=exp(ia), a = range(0,2pi) & write down axes like in subtask 3, create animation of these figures slowly changing the a | 3 |
 
 
 **Task 3**: Schelling model    
