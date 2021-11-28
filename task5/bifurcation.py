@@ -47,9 +47,6 @@ if rank == 0:
 
     fig = plt.scatter(Y, X, c = 'b', s = 0.05)
 
-    plt.figure(figsize=(15, 9))
-    plt.xlim((0, 4))   # set the xlim to left, right
-    plt.ylim(0, 1)     # set the xlim to left, right
     plt.title('Bifurcation diagram', fontsize=12)
     plt.ylabel('Values of static points', fontsize=12)
     plt.xlabel('Value of r', fontsize=12)
